@@ -1,6 +1,25 @@
 # Assessing performance of the outliers projects
 
-## Setup
+## The metrics
+
+Remember that your job was to find outliers to remove that would improve our
+estimation of the activation signal : see [the outliers homework
+section](https://bic-berkeley.github.io/psych-214-fall-2016/diagnostics_project.html#outlier-detection-project).
+
+For the impatient - the metrics are in the file
+[project_metrics.txt](https://github.com/psych-214-fall-2016/diagnostics-grading/blob/master/project_metrics.txt`).
+
+There you will see our assessments of how well your algorithms did in
+assessing outliers (the "outliers" F tests - see below) and how well it did on
+improving activation (the "HRF+out - HRF" test - see below).  We've run every
+group's algorigthm on all three datasets.
+
+Comments and feedback welcome.  Feel free to run the assessment yourself.
+We've written the assessment code to be similar to the stuff we've already
+taught you, so we believe you should be able to follow it, at least in
+outline.
+
+## Setup for reproducing the metrics
 
 To start, get all the sub-projects with:
 
@@ -35,8 +54,8 @@ Run the validate / detect / metrics script with:
     python3 write-metrics.py
 
 I've committed the results of the most recent run of this script.  Check the
-outputs of the files `00_outliers_for_01.txt` etc files for the outlier
-detection results, where `00`` here is the detection algorithm being used, and
+outputs of the files of form `00_outliers_for_01.txt` etc for the outlier
+detection results, where `00` here is the detection algorithm being used, and
 `01` here is the data the algorithm is being used on.
 
 Check `project_metrics.txt` for the metrics generated from these detected
@@ -47,12 +66,13 @@ the metrics:
 * "mean F test within mask" - MFwM - is the mean of all the F test values
   within the brain mask.  I calculated the brain mask with a standard image
   image processing algorithm called Otsu's method (see
-  `fmri_designs/f_for_outliers.py` for details;
+  `fmri_designs/regressors.py` `f_for_outliers` function for details;
 * "drift model" is a set of 4 regressors modeling the mean signal at each
   voxel, and linear, quadratic and cubic drift in signal over time.  See
   `poly_drift` in `fmri_designs/regressors.py`;
 * "HRF model" is a set of 4 neural onset models convolved with a standard SPM
-  hemodynamic response function;
+  hemodynamic response function.  These are the regressors for the specific
+  subject and run in this experiment;
 * "outlier model" is a set of columns regressing out the effect of the outlier
   scans.  The outlier scans are each modeled by a column of zeros, with a
   single 1 in the row corresponding to the outlier scan;
@@ -81,5 +101,10 @@ In the output:
 
 * "outliers" is the mean F within the brain mask for the *outlier* F test;
 * "HRF" is the MFwM for the *HRF* F test;
-* "HRF+out" is the MFwM for the *HRF+oust* F test;
+* "HRF+out" is the MFwM for the *HRF+out* F test;
 * "HRF+out - HRF" is difference between the previous two values.
+* there is one row for each run where the tested algorithm detected at least
+  one outlier.
+
+A good algorithm will have a high mean value for "outliers" and a high
+positive value for "HRF+out - HRF".
