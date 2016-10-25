@@ -12,7 +12,7 @@ For the impatient - the metrics are in the file
 There you will see our assessments of how well your algorithms did in
 assessing outliers (the "outliers" F tests - see below) and how well it did on
 improving activation (the "HRF+out - HRF" test - see below).  We've run every
-group's algorigthm on all three datasets.
+group's algorithm on all three datasets.
 
 Comments and feedback welcome.  Feel free to run the assessment yourself.
 We've written the assessment code to be similar to the stuff we've already
