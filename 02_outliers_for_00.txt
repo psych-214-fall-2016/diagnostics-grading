@@ -1,0 +1,60 @@
+Run 0:(64, 64, 34, 162)
+Run 1:(64, 64, 34, 162)
+Run 2:(64, 64, 34, 162)
+Run 3:(64, 64, 34, 161)
+Run 4:(64, 64, 34, 161)
+Run 5:(64, 64, 34, 162)
+Run 6:(64, 64, 34, 161)
+Run 7:(64, 64, 34, 162)
+Run 8:(64, 64, 34, 162)
+Run 9:(64, 64, 34, 161)
+Run 10:(64, 64, 34, 160)
+Run 11:(64, 64, 34, 162)
+Run 12:(64, 64, 34, 161)
+Run 13:(64, 64, 34, 162)
+Run 14:(64, 64, 34, 161)
+Run 15:(64, 64, 34, 161)
+Run 16:(64, 64, 34, 160)
+Run 17:(64, 64, 34, 160)
+Run 18:(64, 64, 34, 161)
+Run 19:(64, 64, 34, 162)
+dvars 0:161
+dvars 1:161
+dvars 2:161
+dvars 3:160
+dvars 4:160
+dvars 5:161
+dvars 6:160
+dvars 7:161
+dvars 8:161
+dvars 9:160
+dvars 10:159
+dvars 11:161
+dvars 12:160
+dvars 13:161
+dvars 14:160
+dvars 15:160
+dvars 16:159
+dvars 17:159
+dvars 18:160
+dvars 19:161
+group00_sub01_run1.nii outliers:[92]
+group00_sub01_run2.nii outliers:[4, 79, 80]
+group00_sub02_run1.nii outliers:[0, 1, 157, 158]
+group00_sub02_run2.nii outliers:[34, 48, 49, 57, 58]
+group00_sub03_run1.nii outliers:[55, 60, 67, 133]
+group00_sub03_run2.nii outliers:[12, 25]
+group00_sub04_run1.nii outliers:[3, 24, 106, 107, 149]
+group00_sub04_run2.nii outliers:[89, 130, 131]
+group00_sub05_run1.nii outliers:[19, 20, 21, 22]
+group00_sub05_run2.nii outliers:[104, 105, 106]
+group00_sub06_run1.nii outliers:[0, 1, 2]
+group00_sub06_run2.nii outliers:[1, 2, 3, 7, 22, 23, 29]
+group00_sub07_run1.nii outliers:[20, 125, 126]
+group00_sub07_run2.nii outliers:[103, 132, 133, 134]
+group00_sub08_run1.nii outliers:[49, 50, 78, 79, 131, 132]
+group00_sub08_run2.nii outliers:[104, 105, 155, 156]
+group00_sub09_run1.nii outliers:[22, 23]
+group00_sub09_run2.nii outliers:[50, 51]
+group00_sub10_run1.nii outliers:[130, 131]
+group00_sub10_run2.nii outliers:[5, 6, 7, 15, 150]

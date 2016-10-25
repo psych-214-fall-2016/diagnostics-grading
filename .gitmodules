@@ -1,0 +1,12 @@
+[submodule "diagnostics-00"]
+	path = diagnostics-00
+	url = https://github.com/psych-214-fall-2016/diagnostics-00
+[submodule "diagnostics-01"]
+	path = diagnostics-01
+	url = https://github.com/psych-214-fall-2016/diagnostics-01
+[submodule "diagnostics-02"]
+	path = diagnostics-02
+	url = https://github.com/psych-214-fall-2016/diagnostics-02
+[submodule "fmri-designs"]
+	path = fmri-designs
+	url = https://github.com/psych-214-fall-2016/fmri-designs

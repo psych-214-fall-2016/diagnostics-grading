@@ -1,0 +1,230 @@
+Files validated.
+group01_sub01_run1.nii has correct hash
+group01_sub01_run2.nii has correct hash
+group01_sub02_run1.nii has correct hash
+group01_sub02_run2.nii has correct hash
+group01_sub03_run1.nii has correct hash
+group01_sub03_run2.nii has correct hash
+group01_sub04_run1.nii has correct hash
+group01_sub04_run2.nii has correct hash
+group01_sub05_run1.nii has correct hash
+group01_sub05_run2.nii has correct hash
+group01_sub06_run1.nii has correct hash
+group01_sub06_run2.nii has correct hash
+group01_sub07_run1.nii has correct hash
+group01_sub07_run2.nii has correct hash
+group01_sub08_run1.nii has correct hash
+group01_sub08_run2.nii has correct hash
+group01_sub09_run1.nii has correct hash
+group01_sub09_run2.nii has correct hash
+group01_sub10_run1.nii has correct hash
+group01_sub10_run2.nii has correct hash
+YOU DID IT, THIS HASH MATCHES!group02_sub01_run1.nii
+YOU DID IT, THIS HASH MATCHES!group02_sub01_run2.nii
+YOU DID IT, THIS HASH MATCHES!group02_sub02_run1.nii
+YOU DID IT, THIS HASH MATCHES!group02_sub02_run2.nii
+YOU DID IT, THIS HASH MATCHES!group02_sub03_run1.nii
+YOU DID IT, THIS HASH MATCHES!group02_sub03_run2.nii
+YOU DID IT, THIS HASH MATCHES!group02_sub04_run1.nii
+YOU DID IT, THIS HASH MATCHES!group02_sub04_run2.nii
+YOU DID IT, THIS HASH MATCHES!group02_sub05_run1.nii
+YOU DID IT, THIS HASH MATCHES!group02_sub05_run2.nii
+YOU DID IT, THIS HASH MATCHES!group02_sub06_run1.nii
+YOU DID IT, THIS HASH MATCHES!group02_sub06_run2.nii
+YOU DID IT, THIS HASH MATCHES!group02_sub07_run1.nii
+YOU DID IT, THIS HASH MATCHES!group02_sub07_run2.nii
+YOU DID IT, THIS HASH MATCHES!group02_sub08_run1.nii
+YOU DID IT, THIS HASH MATCHES!group02_sub08_run2.nii
+YOU DID IT, THIS HASH MATCHES!group02_sub09_run1.nii
+YOU DID IT, THIS HASH MATCHES!group02_sub09_run2.nii
+YOU DID IT, THIS HASH MATCHES!group02_sub10_run1.nii
+YOU DID IT, THIS HASH MATCHES!group02_sub10_run2.nii
+Validating data for group 0
+Writing 00_outliers_for_00.txt
+Measures for project 0 detector on group 0 data
+  outliers       HRF   HRF+out HRF+out - HRF
+   4.63913   1.27147   1.36282  0.091349
+   2.17956   1.70261   1.69958 -0.003034
+   4.91246   2.04148   2.03273 -0.008757
+   5.12192   1.61667   1.61909  0.002420
+   1.38019   1.56032   1.54230 -0.018027
+   7.30680   1.79997   1.80969  0.009717
+   6.15503   1.94266   2.09161  0.148952
+Means
+   4.52787                      0.031803
+Writing 00_outliers_for_01.txt
+Measures for project 0 detector on group 1 data
+  outliers       HRF   HRF+out HRF+out - HRF
+   2.17316   3.00506   2.66130 -0.343763
+   1.40721   1.92277   1.93003  0.007267
+   1.55298   1.43341   1.44509  0.011675
+   3.89993   1.36646   1.32321 -0.043252
+   3.33285   1.58636   1.60055  0.014187
+   5.14634   1.98781   2.11275  0.124939
+   7.35142   2.21283   2.29752  0.084686
+Means
+   3.55199                     -0.020609
+Writing 00_outliers_for_02.txt
+Measures for project 0 detector on group 2 data
+  outliers       HRF   HRF+out HRF+out - HRF
+   1.86933   1.83294   1.84106  0.008115
+   2.87867   1.85782   1.85100 -0.006822
+   2.64550   1.85276   1.83397 -0.018790
+   2.04540   2.04351   2.08889  0.045385
+   6.15603   1.66322   1.75987  0.096649
+   2.62178   1.71952   1.73222  0.012698
+   3.96954   1.96313   1.91488 -0.048256
+Means
+   3.16946                      0.012711
+Validating data for group 1
+Writing 01_outliers_for_00.txt
+Measures for project 1 detector on group 0 data
+  outliers       HRF   HRF+out HRF+out - HRF
+   1.06057   2.04621   1.99491 -0.051303
+   1.09133   1.91488   1.78098 -0.133896
+   2.18417   1.27147   1.31575  0.044285
+   1.46575   1.70261   1.65269 -0.049919
+   1.02368   1.44180   1.41830 -0.023501
+   1.03642   1.43505   1.41090 -0.024143
+   1.11263   1.69881   1.62761 -0.071204
+   1.22062   1.82769   1.69885 -0.128842
+   2.08663   2.04148   1.97039 -0.071096
+   1.28962   1.91881   1.88966 -0.029155
+   1.89325   1.61667   1.54734 -0.069330
+   1.42687   1.56032   1.43887 -0.121451
+   1.23963   2.19731   2.22463  0.027316
+   1.20406   2.35544   2.21179 -0.143651
+   1.93888   1.79997   1.73116 -0.068809
+   2.35057   1.94266   1.85031 -0.092352
+   1.11249   1.39874   1.36657 -0.032168
+   1.05513   1.34465   1.26806 -0.076583
+   1.11865   1.90506   1.88564 -0.019424
+   1.01482   1.88396   1.74339 -0.140568
+Means
+   1.39629                     -0.063790
+Writing 01_outliers_for_01.txt
+Measures for project 1 detector on group 1 data
+  outliers       HRF   HRF+out HRF+out - HRF
+   1.53396   3.00506   2.41532 -0.589743
+   1.45551   2.11539   1.78834 -0.327050
+   1.24677   1.92277   1.69407 -0.228696
+   1.32249   1.78035   1.76823 -0.012121
+   1.03970   1.73818   1.66903 -0.069150
+   1.07602   1.71971   1.65492 -0.064788
+   1.07068   1.75782   1.69922 -0.058600
+   1.14678   1.54200   1.48096 -0.061041
+   1.53933   1.43341   1.55847  0.125058
+   2.93184   1.36646   1.28826 -0.078200
+   1.08239   1.63732   1.60317 -0.034155
+   1.14341   1.86984   1.79764 -0.072197
+   1.10283   1.51233   1.48972 -0.022613
+   1.13470   1.53904   1.47028 -0.068757
+   1.41510   1.58636   1.51888 -0.067480
+   1.18039   1.81019   1.71180 -0.098393
+   2.32582   1.98781   2.01054  0.022722
+   2.64588   2.21283   1.97298 -0.239854
+   1.11073   1.56354   1.53737 -0.026171
+   1.05923   1.55626   1.54387 -0.012388
+Means
+   1.42818                     -0.099181
+Writing 01_outliers_for_02.txt
+Measures for project 1 detector on group 2 data
+  outliers       HRF   HRF+out HRF+out - HRF
+   1.02277   1.41899   1.36677 -0.052217
+   1.07071   1.30222   1.28423 -0.017991
+   1.10844   1.83294   1.88124  0.048297
+   1.19128   1.45963   1.34711 -0.112520
+   1.10796   1.91126   1.87463 -0.036625
+   1.25328   1.88700   1.79870 -0.088298
+   1.14114   1.96833   1.94441 -0.023915
+   1.13572   1.95069   1.91751 -0.033173
+   1.04853   1.50567   1.44967 -0.056000
+   1.07466   1.58879   1.58067 -0.008123
+   1.35086   1.85782   1.64013 -0.217693
+   1.39335   1.85276   1.66384 -0.188919
+   1.67470   2.04351   1.94222 -0.101287
+   3.22725   1.66322   1.63066 -0.032558
+   1.10165   1.93366   1.92110 -0.012563
+   1.17717   2.11289   2.10560 -0.007293
+   1.62360   1.71952   1.73683  0.017305
+   1.57991   1.96313   1.79898 -0.164148
+   1.14525   2.00798   1.86259 -0.145392
+   1.16964   1.89028   1.74174 -0.148537
+Means
+   1.32989                     -0.069083
+Validating data for group 2
+Writing 02_outliers_for_00.txt
+Measures for project 2 detector on group 0 data
+  outliers       HRF   HRF+out HRF+out - HRF
+   0.99681   2.04621   2.01200 -0.034211
+   1.10260   1.91488   1.90873 -0.006152
+   4.24004   1.27147   1.35051  0.079041
+   1.78243   1.70261   1.76497  0.062355
+   1.01573   1.44180   1.43006 -0.011737
+   1.08367   1.43505   1.42727 -0.007783
+   1.10342   1.69881   1.67316 -0.025656
+   1.32722   1.82769   1.82653 -0.001164
+   4.78014   2.04148   2.03246 -0.009026
+   1.75485   1.91881   1.93336  0.014550
+   4.18613   1.61667   1.58763 -0.029043
+   1.60163   1.56032   1.48332 -0.077003
+   1.58403   2.19731   2.22002  0.022711
+   1.41040   2.35544   2.28066 -0.074783
+   2.83066   1.79997   1.76686 -0.033112
+   5.13552   1.94266   2.11971  0.177049
+   1.21792   1.39874   1.41309  0.014345
+   1.17981   1.34465   1.33819 -0.006454
+   1.06577   1.90506   1.87279 -0.032269
+   0.97033   1.88396   1.84574 -0.038219
+Means
+   2.01845                     -0.000828
+Writing 02_outliers_for_01.txt
+Measures for project 2 detector on group 1 data
+  outliers       HRF   HRF+out HRF+out - HRF
+   1.62926   3.00506   2.91459 -0.090473
+   2.19643   2.11539   2.09494 -0.020453
+   1.25489   1.92277   1.81638 -0.106384
+   1.48997   1.78035   1.79817  0.017821
+   1.02070   1.73818   1.71320 -0.024974
+   1.15310   1.71971   1.70309 -0.016619
+   1.04449   1.75782   1.74176 -0.016063
+   1.34763   1.54200   1.54354  0.001532
+   1.45897   1.43341   1.53440  0.100982
+   5.13297   1.36646   1.40591  0.039448
+   1.09136   1.63732   1.62627 -0.011052
+   1.45150   1.86984   1.86670 -0.003139
+   1.05997   1.51233   1.53050  0.018166
+   1.13425   1.53904   1.53626 -0.002779
+   2.24719   1.58636   1.59119  0.004827
+   1.23434   1.81019   1.73970 -0.070493
+   3.19787   1.98781   2.02370  0.035889
+   4.67698   2.21283   2.30594  0.093107
+   0.97993   1.56354   1.56502  0.001480
+   1.07723   1.55626   1.54476 -0.011503
+Means
+   1.79395                     -0.003034
+Writing 02_outliers_for_02.txt
+Measures for project 2 detector on group 2 data
+  outliers       HRF   HRF+out HRF+out - HRF
+   0.97696   1.41899   1.39199 -0.026995
+   1.02676   1.30222   1.31327  0.011047
+   1.41010   1.83294   1.89752  0.064579
+   1.19869   1.45963   1.41727 -0.042355
+   1.11108   1.91126   1.91587  0.004612
+   1.19865   1.88700   1.87208 -0.014913
+   0.96506   1.96833   1.94246 -0.025870
+   1.24872   1.95069   1.95332  0.002630
+   1.00628   1.50567   1.49427 -0.011400
+   1.04767   1.58879   1.57945 -0.009339
+   2.16242   1.85782   1.83819 -0.019638
+   2.49071   1.85276   1.82536 -0.027407
+   1.07258   2.04351   1.93644 -0.107073
+   5.57150   1.66322   1.79026  0.127041
+   1.21319   1.93366   1.93186 -0.001806
+   1.21317   2.11289   2.11317  0.000274
+   2.01310   1.71952   1.79040  0.070870
+   2.96499   1.96313   1.83483 -0.128298
+   1.18981   2.00798   1.95868 -0.049307
+   1.21814   1.89028   1.84473 -0.045550
+Means
+   1.61498                     -0.011445

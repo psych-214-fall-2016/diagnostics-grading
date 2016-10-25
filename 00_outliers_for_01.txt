@@ -1,0 +1,20 @@
+group01_sub01_run1.nii 27, 106, 108, 109, 133
+group01_sub01_run2.nii 
+group01_sub02_run1.nii 12
+group01_sub02_run2.nii 
+group01_sub03_run1.nii 
+group01_sub03_run2.nii 
+group01_sub04_run1.nii 
+group01_sub04_run2.nii 
+group01_sub05_run1.nii 41, 112
+group01_sub05_run2.nii 0, 1, 2, 3, 5, 6, 98
+group01_sub06_run1.nii 
+group01_sub06_run2.nii 
+group01_sub07_run1.nii 
+group01_sub07_run2.nii 
+group01_sub08_run1.nii 77, 150
+group01_sub08_run2.nii 
+group01_sub09_run1.nii 23, 78, 136
+group01_sub09_run2.nii 24, 49, 158, 159
+group01_sub10_run1.nii 
+group01_sub10_run2.nii 
